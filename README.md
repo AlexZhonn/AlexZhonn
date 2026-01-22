@@ -12,7 +12,7 @@ I am currently working on my new project - Aristos<br>I am currently learning de
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexZhonn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexZhonn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for Today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
