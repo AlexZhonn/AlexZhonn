@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my new project - Aristos<br>I am currently learning devops - kubernetes, CICD, etc.<br>Fun Fact: I was top 1000 on Valorant in US, China, APAC server , top 100 on NBA 2k, and top 300 on CSGO in China server  
+I am currently working on my new project - Cr4ck, a OOP Practice Platform just like Leetcode <br>I am currently learning devops - kubernetes, CICD, etc.<br>Fun Fact: I was top 1000 on Valorant in US, China, APAC server , top 100 on NBA 2k, and top 300 on CSGO in China server  
 
 
 ## 🌐 Socials:
