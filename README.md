@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:3d0080,70:6c00ff,100:0044cc&height=220&section=header&text=⚡%20ALEX%20ZHOU%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Chidori-class%20Full-Stack%20Shinobi&descAlignY=62&descSize=17&descColor=7c4dff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:3d0080,70:6c00ff,100:0044cc&height=220&section=header&text=⚡%20ALEX%20ZHONG%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Chidori-class%20Full-Stack%20Shinobi&descAlignY=62&descSize=17&descColor=7c4dff" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 ## 👁 About
 
 ```ts
-const alexzhou = {
+const alexzhong = {
   alias         : "AlexZhonn / Hinata (Valorant) / Leetcode Grinder (2K26)",
   currentProject: "Cr4ck — OOP Practice Platform (think: LeetCode for OOP)",
   learning      : ["Kubernetes", "CI/CD", "DevOps"],
