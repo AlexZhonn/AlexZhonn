@@ -17,7 +17,7 @@
 
 <div align="center">
 
-*「 I will surpass you, and then surpass God itself — one commit at a time. 」*
+*「 Those who turn their hands against their comrades will inevitably face a rude awakening. 」*
 <br/>
 **— Uchiha Sasuke, after merging to main**
 
