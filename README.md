@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:3d0080,70:6c00ff,100:0044cc&height=220&section=header&text=⚡%20ALEX%20ZHONG%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Chidori-class%20Full-Stack%20Shinobi&descAlignY=62&descSize=17&descColor=7c4dff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=⚡%20ALEX%20ZHONG%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Chidori-class%20Full-Stack%20Shinobi&descAlignY=62&descSize=17&descColor=aaaaaa" />
 
 <br/>
 
@@ -147,7 +147,7 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0044cc,50:6c00ff,100:050510&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer&animation=fadeIn" />
 
 *`</AlexZhonn>` · ⚡ · Built with Chidori & Caffeine*
 
