@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=⚡%20ALEX%20ZHONG%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Chidori-class%20Full-Stack%20Shinobi&descAlignY=62&descSize=17&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=⚡%20ALEX%20ZHONG%20⚡&fontSize=52&fontFamily=Georgia&fontColor=c8e6ff&animation=fadeIn&fontAlignY=40&desc=Full-Stack&descAlignY=62&descSize=17&descColor=aaaaaa" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 *「 Those who turn their hands against their comrades will inevitably face a rude awakening. 」*
 <br/>
-**— Uchiha Sasuke, after merging to main**
+**— Uchiha Sasuke**
 
 </div>
 
@@ -44,7 +44,7 @@ const alexzhong = {
 
 ---
 
-## ⚡ Jutsu Arsenal
+## ⚡ 
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const alexzhong = {
 
 ---
 
-## ⚔️ Signature Jutsus — Featured Projects
+## ⚔️ 
 
 <div align="center">
 
@@ -94,7 +94,7 @@ const alexzhong = {
 
 ---
 
-## 📊 Chakra Distribution
+## Distribution
 
 ```
 Frontend  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  90%
@@ -122,7 +122,7 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 
 ---
 
-## 🔮 Jutsu of the Day
+## Quote
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexzhonn)
 [![Riot Games](https://img.shields.io/badge/Valorant%20%7C%20Hinata-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://tracker.gg)
 
-*Say Hi if you see **Hinata** in Valorant or **Leetcode Grinder** in NBA 2K26 👋*
+*Say Hi if you see **Hinata#Hyug4** in Valorant or **Leetcode Grinder** in NBA 2K26 👋*
 
 </div>
 
@@ -149,6 +149,6 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=footer&animation=fadeIn" />
 
-*`</AlexZhonn>` · ⚡ · Built with Chidori & Caffeine*
+*`</AlexZhonn>`*
 
 </div>
