@@ -116,7 +116,7 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AlexZhonn&theme=tokyonight&hide_border=false" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexZhonn&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 </div>
 
