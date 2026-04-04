@@ -133,8 +133,6 @@ Gaming    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  99%  �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexzhonn)
 [![Riot Games](https://img.shields.io/badge/Valorant%20%7C%20Hinata-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://tracker.gg)
 
-*Say Hi if you see **Hinata#Hyug4** in Valorant or **Leetcode Grinder** in NBA 2K26 👋*
-
 </div>
 
 ---
