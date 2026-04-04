@@ -29,16 +29,10 @@
 
 ```ts
 const alexzhong = {
-  alias         : "AlexZhonn / Hinata (Valorant) / Leetcode Grinder (2K26)",
+  alias         : "Zhuen Zhong",
   currentProject: "Cr4ck — OOP Practice Platform (think: LeetCode for OOP)",
   learning      : ["Kubernetes", "CI/CD", "DevOps"],
-  kekkeiGenkai  : ["TypeScript", "C++", "React", "Next.js"],
-  gamerFacts    : {
-    valorant : "Top 1000 — US, China, APAC servers",
-    nba2k    : "Top 100",
-    csgo     : "Top 300 — China server",
-  },
-  status        : "Say Hi if you see Hinata in Val or Leetcode Grinder in 2K26 👋",
+  kekkeiGenkai  : ["TypeScript", "C++", "React", "Next.js"]
 };
 ```
 
